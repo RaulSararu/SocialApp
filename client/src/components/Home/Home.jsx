@@ -357,7 +357,6 @@ export default function Home() {
               variant="contained"
               endIcon={<SendIcon />}
               style={{ width: "100px", color: "green", background: "white" }}
-              variant="contained"
               onClick={() => handleAddComment(idx)}
             >
               Send
